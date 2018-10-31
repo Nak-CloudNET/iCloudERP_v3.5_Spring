@@ -1,0 +1,16 @@
+﻿Code,Name,Name KH,Category Code,Unit ID,Cost,Price,Alert Quantity, Tax Rate Name,Tax Method,Subcategory Code,Product Variants Separated by |,Supplier1(No),Supplier2(No),Supplier3(No),Supplier4(No),Supplier5(No),Custom Field 1,Custom Field 2,Custom Field 3,Custom Field 4,Custom Field 5,Custom Field 6,Image,Type(standard or service)
+FXB01,បាយស ១ ចាន - B,,F01,4,0,1,0, No Tax, exclusive,FX,,,,,,,,,,,,,no_image.png,standard
+FXB02,បាយសឆ្នាំង - B,,F01,4,0,4,0, No Tax, exclusive,FX,,,,,,,,,,,,,no_image.png,standard
+FXB03,បន្លែស៊ុប - B,,F01,4,0,4,0, No Tax, exclusive,FX,,,,,,,,,,,,,no_image.png,standard
+FXB04,មីដុំ(ស៊ុប) - B,,F01,4,0,1,0, No Tax, exclusive,FX,,,,,,,,,,,,,no_image.png,standard
+FXB05,មីកញ្ចប់(ស៊ុប) - B,,F01,4,0,1,0, No Tax, exclusive,FX,,,,,,,,,,,,,no_image.png,standard
+FXB06,សាច់គោ(ស៊ុប) - B,,F01,4,0,4,0, No Tax, exclusive,FX,,,,,,,,,,,,,no_image.png,standard
+FXB07,ពងមាន់ (ស៊ុប)- B,,F01,4,0,1,0, No Tax, exclusive,FX,,,,,,,,,,,,,no_image.png,standard
+FXB08,ផ្សិតម្ជុល(ស៊ុប) - B,,F01,4,0,2,0, No Tax, exclusive,FX,,,,,,,,,,,,,no_image.png,standard
+FXB09,បង្គា(ស៊ុប) - B,,F01,4,0,4,0, No Tax, exclusive,FX,,,,,,,,,,,,,no_image.png,standard
+FXB10,មឹក(ស៊ុប) - B,,F01,4,0,4,0, No Tax, exclusive,FX,,,,,,,,,,,,,no_image.png,standard
+FXB11,ប្រហិតក្ដាម(ស៊ុប) - B,,F01,4,0,4,0, No Tax, exclusive,FX,,,,,,,,,,,,,no_image.png,standard
+FXB12,Ham ថែម(ស៊ុប)- B,,F01,4,0,4,0, No Tax, exclusive,FX,,,,,,,,,,,,,no_image.png,standard
+FXB13,ពពុះសណ្ដែក(ស៊ុប) - B,,F01,4,0,2,0, No Tax, exclusive,FX,,,,,,,,,,,,,no_image.png,standard
+FXB14,នំបុ័ងដើម - B,,F01,4,0,1,0, No Tax, exclusive,FX,,,,,,,,,,,,,no_image.png,standard
+FXB15,នំបុ័ងជ្រុង - B,,F01,4,0,1,0, No Tax, exclusive,FX,,,,,,,,,,,,,no_image.png,standard

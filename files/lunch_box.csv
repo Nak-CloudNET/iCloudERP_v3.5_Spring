@@ -1,0 +1,17 @@
+﻿Code,Name,Name KH,Category Code,Unit ID,Cost,Price,Alert Quantity, Tax Rate Name,Tax Method,Subcategory Code,Product Variants Separated by |,Supplier1(No),Supplier2(No),Supplier3(No),Supplier4(No),Supplier5(No),Custom Field 1,Custom Field 2,Custom Field 3,Custom Field 4,Custom Field 5,Custom Field 6,Image,Type(standard or service)
+N1 ,N1-ផាត់កាផៅសាច់ជ្រូកចិញ្ច្រាំ,,F01,,0,2.5,,,,LB,,,,,,,,,,,,,no_image.png,standard
+N2 ,N2-ទ្រូងមាន់ជូអែម,,F01,,0,2.5,,,,LB,,,,,,,,,,,,,no_image.png,standard
+N3 ,N3-ត្រីបំពងទឹកត្រីស្វាយខ្ចី,,F01,,0,2.5,,,,LB,,,,,,,,,,,,,no_image.png,standard
+N4 ,N4-ឆាស្ពៃប៉ក់ចយ,,F01,,0,2.5,,,,LB,,,,,,,,,,,,,no_image.png,standard
+N5 ,N5-បាយឆាសាច់ជ្រូក,,F01,,0,2.5,,,,LB,,,,,,,,,,,,,no_image.png,standard
+P1 ,P1-បាយសាច់គោបន្ទះដែក,,F01,,0,4.5,,,,LB,,,,,,,,,,,,,no_image.png,standard
+P2 ,P2-ឡុកឡាក់សាច់គោ,,F01,,0,4.5,,,,LB,,,,,,,,,,,,,no_image.png,standard
+P3 ,P3-ភ្លៅមាន់បំពង,,F01,,0,4.5,,,,LB,,,,,,,,,,,,,no_image.png,standard
+P4 ,P4-ខាត់ណាទឹកភ្នែក,,F01,,0,4.5,,,,LB,,,,,,,,,,,,,no_image.png,standard
+P5 ,P5-បង្គាឆាផ្កាកាឆាយ,,F01,,0,4.5,,,,LB,,,,,,,,,,,,,no_image.png,standard
+P6 ,P6-ស្ប៉ាហ្គេទីផាត់គីម៉ៅ,,F01,,0,4.5,,,,LB,,,,,,,,,,,,,no_image.png,standard
+S1 ,S1-បាយមាន់ទឹកឃ្មំុ,,F01,,0,3.5,,,,LB,,,,,,,,,,,,,no_image.png,standard
+S2 ,S2-ត្រីហ្វីលេជូអែម,,F01,,0,3.5,,,,LB,,,,,,,,,,,,,no_image.png,standard
+S3 ,S3-ផ្កាខាត់ណាឆាសាច់គោ,,F01,,0,3.5,,,,LB,,,,,,,,,,,,,no_image.png,standard
+S4 ,S4-មឹកឆាផ្កាកាឆាយ,,F01,,0,3.5,,,,LB,,,,,,,,,,,,,no_image.png,standard
+S5 ,S5-ក្លឹបសេនវិច,,F01,,0,3.5,,,,LB,,,,,,,,,,,,,no_image.png,standard

@@ -1,0 +1,25 @@
+Code,Name,Name KH,Category Code,Unit ID,Cost,Price,Alert Quantity, Tax Rate Name,Tax Method,Subcategory Code,Product Variants Separated by |,Supplier1(No),Supplier2(No),Supplier3(No),Supplier4(No),Supplier5(No),Custom Field 1,Custom Field 2,Custom Field 3,Custom Field 4,Custom Field 5,Custom Field 6,Image,Type(standard or service)
+MT01,Blueberry Milk Tea - Iced,,D01,1,0,2,0, No Tax, exclusive,MT,,,,,,,,,,,,,no_image.png,standard
+MT02,Kiwi Milk Tea  - Iced,,D01,1,0,2,0, No Tax, exclusive,MT,,,,,,,,,,,,,no_image.png,standard
+MT03,Green Milk Tea  - Iced,,D01,1,0,2,0, No Tax, exclusive,MT,,,,,,,,,,,,,no_image.png,standard
+MT04,Raspberry Milk Tea  - Iced,,D01,1,0,2,0, No Tax, exclusive,MT,,,,,,,,,,,,,no_image.png,standard
+MT05,Strawbery Milk Tea  - Iced,,D01,1,0,2,0, No Tax, exclusive,MT,,,,,,,,,,,,,no_image.png,standard
+MT06,Tiramisu Milk Tea  - Iced,,D01,1,0,2,0, No Tax, exclusive,MT,,,,,,,,,,,,,no_image.png,standard
+MT07,Banana Milk Tea  - Iced,,D01,1,0,2,0, No Tax, exclusive,MT,,,,,,,,,,,,,no_image.png,standard
+MT08,Passion Milk Tea  - Iced,,D01,1,0,2,0, No Tax, exclusive,MT,,,,,,,,,,,,,no_image.png,standard
+MT09,Blueberry Milk Tea - Smoothies,,D01,1,0,2.5,0, No Tax, exclusive,MT,,,,,,,,,,,,,no_image.png,standard
+MT10,Kiwi Milk Tea   - Smoothies,,D01,1,0,2.5,0, No Tax, exclusive,MT,,,,,,,,,,,,,no_image.png,standard
+MT11,Green Milk Tea   - Smoothies,,D01,1,0,2.5,0, No Tax, exclusive,MT,,,,,,,,,,,,,no_image.png,standard
+MT12,Raspberry Milk Tea   - Smoothies,,D01,1,0,2.5,0, No Tax, exclusive,MT,,,,,,,,,,,,,no_image.png,standard
+MT13,Strawbery Milk Tea   - Smoothies,,D01,1,0,2.5,0, No Tax, exclusive,MT,,,,,,,,,,,,,no_image.png,standard
+MT14,Tiramisu Milk Tea   - Smoothies,,D01,1,0,2.5,0, No Tax, exclusive,MT,,,,,,,,,,,,,no_image.png,standard
+MT15,Banana Milk Tea   - Smoothies,,D01,1,0,2.5,0, No Tax, exclusive,MT,,,,,,,,,,,,,no_image.png,standard
+MT16,Passion Milk Tea   - Smoothies,,D01,1,0,2.5,0, No Tax, exclusive,MT,,,,,,,,,,,,,no_image.png,standard
+MT17,Blueberry Milk Tea - Frappe,,D01,1,0,3,0, No Tax, exclusive,MT,,,,,,,,,,,,,no_image.png,standard
+MT18,Kiwi Milk Tea  - Frappe,,D01,1,0,3,0, No Tax, exclusive,MT,,,,,,,,,,,,,no_image.png,standard
+MT19,Green Milk Tea   - Frappe,,D01,1,0,3,0, No Tax, exclusive,MT,,,,,,,,,,,,,no_image.png,standard
+MT20,Raspberry Milk Tea   - Frappe,,D01,1,0,3,0, No Tax, exclusive,MT,,,,,,,,,,,,,no_image.png,standard
+MT21,Strawbery Milk Tea   - Frappe,,D01,1,0,3,0, No Tax, exclusive,MT,,,,,,,,,,,,,no_image.png,standard
+MT22,Tiramisu Milk Tea   - Frappe,,D01,1,0,3,0, No Tax, exclusive,MT,,,,,,,,,,,,,no_image.png,standard
+MT23,Banana Milk Tea   - Frappe,,D01,1,0,3,0, No Tax, exclusive,MT,,,,,,,,,,,,,no_image.png,standard
+MT24,Passion Milk Tea   - Frappe,,D01,1,0,3,0, No Tax, exclusive,MT,,,,,,,,,,,,,no_image.png,standard

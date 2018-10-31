@@ -1,0 +1,17 @@
+﻿Code,Name,Name KH,Category Code,Unit ID,Cost,Price,Alert Quantity, Tax Rate Name,Tax Method,Subcategory Code,Product Variants Separated by |,Supplier1(No),Supplier2(No),Supplier3(No),Supplier4(No),Supplier5(No),Custom Field 1,Custom Field 2,Custom Field 3,Custom Field 4,Custom Field 5,Custom Field 6,Image,Type(standard or service)
+FBB01,បាយមាន់និទាឃរដូវ - B,,F01,4,0,8,0, No Tax, exclusive,FB,,,,,,,,,,,,,no_image.png,standard
+FBB02,ខគោនិទាឃរដូវ - B,,F01,4,0,8,0, No Tax, exclusive,FB,,,,,,,,,,,,,no_image.png,standard
+FBB03,បបរគ្រឿងសមុទ្រ - B,,F01,4,0,8,0, No Tax, exclusive,FB,,,,,,,,,,,,,no_image.png,standard
+FBB04,បបរសសាច់ជ្រូកចៀន - B,,F01,4,0,8,0, No Tax, exclusive,FB,,,,,,,,,,,,,no_image.png,standard
+FBB05,បបរសាច់ជ្រូកចិញ្ច្រាំ - B,,F01,4,0,8,0, No Tax, exclusive,FB,,,,,,,,,,,,,no_image.png,standard
+FBB06,បបរសាមចូក - B,,F01,4,0,8,0, No Tax, exclusive,FB,,,,,,,,,,,,,no_image.png,standard
+FBB07,ការីសាច់មាន់នំបុ័ង - B,,F01,4,0,8,0, No Tax, exclusive,FB,,,,,,,,,,,,,no_image.png,standard
+FBB08,មីការីសាច់មាន់ - B,,F01,4,0,8,0, No Tax, exclusive,FB,,,,,,,,,,,,,no_image.png,standard
+FBB09,ក្លឹបសេនវិច - B,,F01,4,0,8,0, No Tax, exclusive,FB,,,,,,,,,,,,,no_image.png,standard
+FBB10,បាយសាច់គោបន្ទះដែក - B,,F01,4,0,7,0, No Tax, exclusive,FB,,,,,,,,,,,,,no_image.png,standard
+FBB11,បាយមាន់ដុតទឹកឃ្មុំ - B,,F01,4,0,7,0, No Tax, exclusive,FB,,,,,,,,,,,,,no_image.png,standard
+FBB12,បាយភ្លៅមាន់ចៀន - B,,F01,4,0,8,0, No Tax, exclusive,FB,,,,,,,,,,,,,no_image.png,standard
+FBB13,ភ្លៅមាន់ចៀន - B,,F01,4,0,8,0, No Tax, exclusive,FB,,,,,,,,,,,,,no_image.png,standard
+FBB14,បាយភ្លៅមាន់ស្ងោ - B,,F01,4,0,8,0, No Tax, exclusive,FB,,,,,,,,,,,,,no_image.png,standard
+FBB15,ភ្លៅមាន់ស្ងោ - B,,F01,4,0,8,0, No Tax, exclusive,FB,,,,,,,,,,,,,no_image.png,standard
+FBB16,មីប៉ក់ - B,,F01,4,0,8,0, No Tax, exclusive,FB,,,,,,,,,,,,,no_image.png,standard

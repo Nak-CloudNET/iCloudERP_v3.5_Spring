@@ -1,0 +1,170 @@
+Code,Name,Name KH,Category Code,Unit ID,Cost,Price,Alert Quantity, Tax Rate Name,Tax Method,Subcategory Code,Product Variants Separated by |,Supplier1(No),Supplier2(No),Supplier3(No),Supplier4(No),Supplier5(No),Custom Field 1,Custom Field 2,Custom Field 3,Custom Field 4,Custom Field 5,Custom Field 6,Image,Type(standard or service)
+HO01,Irish Coffee Hot,,D01,1,0,4,0, No Tax, exclusive,HO,,,,,,,,,,,,,no_image.png,standard
+HO02,Espresso Hot,,D01,1,0,1.25,0, No Tax, exclusive,HO,,,,,,,,,,,,,no_image.png,standard
+HO03,Americano Hot,,D01,1,0,1.5,0, No Tax, exclusive,HO,,,,,,,,,,,,,no_image.png,standard
+HO04,Condensed Milk Caffee Hot,,D01,1,0,1.5,0, No Tax, exclusive,HO,,,,,,,,,,,,,no_image.png,standard
+HO05,Latte Hot,,D01,1,0,2.25,0, No Tax, exclusive,HO,,,,,,,,,,,,,no_image.png,standard
+HO06,Cappucino Hot,,D01,1,0,2.25,0, No Tax, exclusive,HO,,,,,,,,,,,,,no_image.png,standard
+HO07,Spring Elite Chocolate Hot,,D01,1,0,2.5,0, No Tax, exclusive,HO,,,,,,,,,,,,,no_image.png,standard
+HO08,Spring Elite Caramel Hot,,D01,1,0,2.5,0, No Tax, exclusive,HO,,,,,,,,,,,,,no_image.png,standard
+CO01,Iced Americano - S,,D01,2,0,1.75,0, No Tax, exclusive,CO,,,,,,,,,,,,,no_image.png,standard
+CO02,Iced Americano  - B,,D01,4,0,2,0, No Tax, exclusive,CO,,,,,,,,,,,,,no_image.png,standard
+CO03,Iced Condensed milk Coffee  - S,,D01,2,0,1.75,0, No Tax, exclusive,CO,,,,,,,,,,,,,no_image.png,standard
+CO04,Iced Condensed Milk Coffee  - B,,D01,4,0,2,0, No Tax, exclusive,CO,,,,,,,,,,,,,no_image.png,standard
+CO05,Iced Latte  - S,,D01,2,0,2.25,0, No Tax, exclusive,CO,,,,,,,,,,,,,no_image.png,standard
+CO06,Iced Latte  - B,,D01,4,0,2.75,0, No Tax, exclusive,CO,,,,,,,,,,,,,no_image.png,standard
+CO07,Iced Cappucino  - S,,D01,2,0,2.25,0, No Tax, exclusive,CO,,,,,,,,,,,,,no_image.png,standard
+CO08,Iced Cappucino  - B,,D01,4,0,2.75,0, No Tax, exclusive,CO,,,,,,,,,,,,,no_image.png,standard
+CO09,Iced Mocha  - S,,D01,2,0,2.5,0, No Tax, exclusive,CO,,,,,,,,,,,,,no_image.png,standard
+CO10,Iced Mocha  - B,,D01,4,0,2.95,0, No Tax, exclusive,CO,,,,,,,,,,,,,no_image.png,standard
+CO11,Iced Spring Elite Chocolate  - S,,D01,2,0,2.5,0, No Tax, exclusive,CO,,,,,,,,,,,,,no_image.png,standard
+CO12,Iced Spring Elite Chocolate  - B,,D01,4,0,2.95,0, No Tax, exclusive,CO,,,,,,,,,,,,,no_image.png,standard
+CO13,Iced Spring Elite Caramel  - S,,D01,2,0,2.5,0, No Tax, exclusive,CO,,,,,,,,,,,,,no_image.png,standard
+CO14,Iced Spring Elite Caramel  - B,,D01,4,0,2.95,0, No Tax, exclusive,CO,,,,,,,,,,,,,no_image.png,standard
+SM01,Apple Smootheis  - S,,D01,2,0,2.5,0, No Tax, exclusive,SM,,,,,,,,,,,,,no_image.png,standard
+SM02,Apple Smootheis - B,,D01,4,0,3,0, No Tax, exclusive,SM,,,,,,,,,,,,,no_image.png,standard
+SM03,Avocado Smootheis  - S,,D01,2,0,2.5,0, No Tax, exclusive,SM,,,,,,,,,,,,,no_image.png,standard
+SM04,Avocado Smootheis  - B,,D01,4,0,3,0, No Tax, exclusive,SM,,,,,,,,,,,,,no_image.png,standard
+SM05,Banana Smootheis  - S,,D01,2,0,2.5,0, No Tax, exclusive,SM,,,,,,,,,,,,,no_image.png,standard
+SM06,Banana Smootheis  - B,,D01,4,0,3,0, No Tax, exclusive,SM,,,,,,,,,,,,,no_image.png,standard
+SM07,Blueberry Smootheis  - S,,D01,2,0,2.5,0, No Tax, exclusive,SM,,,,,,,,,,,,,no_image.png,standard
+SM08,Blueberry Smootheis  - B,,D01,4,0,3,0, No Tax, exclusive,SM,,,,,,,,,,,,,no_image.png,standard
+SM09,Carrot Smootheis  - S,,D01,2,0,2.5,0, No Tax, exclusive,SM,,,,,,,,,,,,,no_image.png,standard
+SM10,Carrot Smootheis  - B,,D01,4,0,3,0, No Tax, exclusive,SM,,,,,,,,,,,,,no_image.png,standard
+SM11,Coconut Smootheis  - S,,D01,2,0,2.5,0, No Tax, exclusive,SM,,,,,,,,,,,,,no_image.png,standard
+SM12,Coconut Smootheis  - B,,D01,4,0,3,0, No Tax, exclusive,SM,,,,,,,,,,,,,no_image.png,standard
+SM13,Kiwi Smootheis  - S,,D01,2,0,2.5,0, No Tax, exclusive,SM,,,,,,,,,,,,,no_image.png,standard
+SM14,Kiwi Smootheis  - B,,D01,4,0,3,0, No Tax, exclusive,SM,,,,,,,,,,,,,no_image.png,standard
+SM15,Mango Smootheis  - S,,D01,2,0,2.5,0, No Tax, exclusive,SM,,,,,,,,,,,,,no_image.png,standard
+SM16,Mango Smootheis  - B,,D01,4,0,3,0, No Tax, exclusive,SM,,,,,,,,,,,,,no_image.png,standard
+SM17,Passion Smootheis  - S,,D01,2,0,2.5,0, No Tax, exclusive,SM,,,,,,,,,,,,,no_image.png,standard
+SM18,Passion Smootheis  - B,,D01,4,0,3,0, No Tax, exclusive,SM,,,,,,,,,,,,,no_image.png,standard
+SM19,Pineapple Smootheis  - S,,D01,2,0,2.5,0, No Tax, exclusive,SM,,,,,,,,,,,,,no_image.png,standard
+SM20,Pineapple Smootheis  - B,,D01,4,0,3,0, No Tax, exclusive,SM,,,,,,,,,,,,,no_image.png,standard
+SM21,Raspberry Smootheis  - S,,D01,2,0,2.5,0, No Tax, exclusive,SM,,,,,,,,,,,,,no_image.png,standard
+SM22,Raspberry Smootheis  - B,,D01,4,0,3,0, No Tax, exclusive,SM,,,,,,,,,,,,,no_image.png,standard
+SM23,Strawberry Smootheis  - S,,D01,2,0,2.5,0, No Tax, exclusive,SM,,,,,,,,,,,,,no_image.png,standard
+SM24,Strawberry Smootheis  - B,,D01,4,0,3,0, No Tax, exclusive,SM,,,,,,,,,,,,,no_image.png,standard
+FJ01,Apple  Juice - S,,D01,2,0,3,0, No Tax, exclusive,FJ,,,,,,,,,,,,,no_image.png,standard
+FJ02,Apple  Juice - B,,D01,4,0,4,0, No Tax, exclusive,FJ,,,,,,,,,,,,,no_image.png,standard
+FJ03,Carrot   Juice - S,,D01,2,0,3,0, No Tax, exclusive,FJ,,,,,,,,,,,,,no_image.png,standard
+FJ04,Carrot  Juice - B,,D01,4,0,4,0, No Tax, exclusive,FJ,,,,,,,,,,,,,no_image.png,standard
+FJ05,Pineapple  Juice - S,,D01,2,0,3,0, No Tax, exclusive,FJ,,,,,,,,,,,,,no_image.png,standard
+FJ06,Pineapple Juice - B,,D01,4,0,4,0, No Tax, exclusive,FJ,,,,,,,,,,,,,no_image.png,standard
+FJ07,Orange  Juice - S,,D01,2,0,3,0, No Tax, exclusive,FJ,,,,,,,,,,,,,no_image.png,standard
+FJ08,Orange  Juice - B,,D01,4,0,4,0, No Tax, exclusive,FJ,,,,,,,,,,,,,no_image.png,standard
+FJ09,Passion  Juice - S,,D01,2,0,3,0, No Tax, exclusive,FJ,,,,,,,,,,,,,no_image.png,standard
+FJ10,Passion Juice - B,,D01,4,0,4,0, No Tax, exclusive,FJ,,,,,,,,,,,,,no_image.png,standard
+FJ11,Fragrant Coconut Set,,D01,1,0,3,0, No Tax, exclusive,FJ,,,,,,,,,,,,,no_image.png,standard
+TH01,Lemon Tea Hot,,D01,1,0,1,0, No Tax, exclusive,TH,,,,,,,,,,,,,no_image.png,standard
+TH02,Honey Lemon Hot ,,D01,1,0,1.25,0, No Tax, exclusive,TH,,,,,,,,,,,,,no_image.png,standard
+TH03,Herbal Tea Hot,,D01,1,0,1.25,0, No Tax, exclusive,TH,,,,,,,,,,,,,no_image.png,standard
+TC01,Iced Lemon Tea ,,D01,1,0,1.25,0, No Tax, exclusive,TC,,,,,,,,,,,,,no_image.png,standard
+TC02,Iced Honey Lemon ,,D01,1,0,1.5,0, No Tax, exclusive,TC,,,,,,,,,,,,,no_image.png,standard
+TC03,Iced Herbal Tea,,D01,1,0,1.5,0, No Tax, exclusive,TC,,,,,,,,,,,,,no_image.png,standard
+FR01,Caramel Frappe  - S,,D01,2,0,2.7,0, No Tax, exclusive,FR,,,,,,,,,,,,,no_image.png,standard
+FR02,Caramel Frappe   - B,,D01,4,0,3.2,0, No Tax, exclusive,FR,,,,,,,,,,,,,no_image.png,standard
+FR03,Chocolate Frappe   - S,,D01,2,0,2.7,0, No Tax, exclusive,FR,,,,,,,,,,,,,no_image.png,standard
+FR04,Chocolate Frappe   - B,,D01,4,0,3.2,0, No Tax, exclusive,FR,,,,,,,,,,,,,no_image.png,standard
+FR05,Coffee Frappe   - S,,D01,2,0,2.7,0, No Tax, exclusive,FR,,,,,,,,,,,,,no_image.png,standard
+FR06,Coffee Frappe   - B,,D01,4,0,3.2,0, No Tax, exclusive,FR,,,,,,,,,,,,,no_image.png,standard
+FR07,Green Tea Frappe   - S,,D01,2,0,2.7,0, No Tax, exclusive,FR,,,,,,,,,,,,,no_image.png,standard
+FR08,Green Tea Frappe   - B,,D01,4,0,3.2,0, No Tax, exclusive,FR,,,,,,,,,,,,,no_image.png,standard
+FR09,Hazelnut Frappe   - S,,D01,2,0,2.7,0, No Tax, exclusive,FR,,,,,,,,,,,,,no_image.png,standard
+FR10,Hazelnut Frappe   - B,,D01,4,0,3.2,0, No Tax, exclusive,FR,,,,,,,,,,,,,no_image.png,standard
+FR11,Mocha Frappe    - S,,D01,2,0,2.7,0, No Tax, exclusive,FR,,,,,,,,,,,,,no_image.png,standard
+FR12,Mocha Frappe    - B,,D01,4,0,3.2,0, No Tax, exclusive,FR,,,,,,,,,,,,,no_image.png,standard
+FR13,Tiramisu Frappe   - S,,D01,2,0,2.7,0, No Tax, exclusive,FR,,,,,,,,,,,,,no_image.png,standard
+FR14,Tiramisu Frappe   - B,,D01,4,0,3.2,0, No Tax, exclusive,FR,,,,,,,,,,,,,no_image.png,standard
+FR15,Vanilla Frappe   - S,,D01,2,0,2.7,0, No Tax, exclusive,FR,,,,,,,,,,,,,no_image.png,standard
+FR16,Vanilla Frappe   - B,,D01,4,0,3.2,0, No Tax, exclusive,FR,,,,,,,,,,,,,no_image.png,standard
+SO01,Lemon  Soda,,D01,1,0,2.5,0, No Tax, exclusive,SO,,,,,,,,,,,,,no_image.png,standard
+SO02,Blueberry  Soda,,D01,1,0,2.5,0, No Tax, exclusive,SO,,,,,,,,,,,,,no_image.png,standard
+SO03,Blue Caracao   Soda,,D01,1,0,2.5,0, No Tax, exclusive,SO,,,,,,,,,,,,,no_image.png,standard
+SO04,Passion  Soda,,D01,1,0,2.5,0, No Tax, exclusive,SO,,,,,,,,,,,,,no_image.png,standard
+SO05,Raspberry  Soda,,D01,1,0,2.5,0, No Tax, exclusive,SO,,,,,,,,,,,,,no_image.png,standard
+SO06,Strawberry  Soda,,D01,1,0,2.5,0, No Tax, exclusive,SO,,,,,,,,,,,,,no_image.png,standard
+SO07,Mojito  Soda,,D01,1,0,2.5,0, No Tax, exclusive,SO,,,,,,,,,,,,,no_image.png,standard
+SO08,Kiwi  Soda,,D01,1,0,2.5,0, No Tax, exclusive,SO,,,,,,,,,,,,,no_image.png,standard
+SO09,Mango Cooler  Soda,,D01,1,0,2.5,0, No Tax, exclusive,SO,,,,,,,,,,,,,no_image.png,standard
+SO10,Black Cooler  Soda,,D01,1,0,2.5,0, No Tax, exclusive,SO,,,,,,,,,,,,,no_image.png,standard
+SO11,Black Mojito  Soda,,D01,1,0,2.5,0, No Tax, exclusive,SO,,,,,,,,,,,,,no_image.png,standard
+SO12,Banana cooler  Soda,,D01,1,0,2.5,0, No Tax, exclusive,SO,,,,,,,,,,,,,no_image.png,standard
+SO13,Strawberry Coler  Soda,,D01,1,0,2.5,0, No Tax, exclusive,SO,,,,,,,,,,,,,no_image.png,standard
+SO14,Passion  Soda,,D01,1,0,2.5,0, No Tax, exclusive,SO,,,,,,,,,,,,,no_image.png,standard
+SO15,Kiwi Cooler  Soda,,D01,1,0,2.5,0, No Tax, exclusive,SO,,,,,,,,,,,,,no_image.png,standard
+BR01,Abc can - Sale,,D01,1,0,2.5,0, No Tax, exclusive,BR,,,,,,,,,,,,,no_image.png,standard
+BR02,Abc Bottle - Sale,,D01,1,0,4,0, No Tax, exclusive,BR,,,,,,,,,,,,,no_image.png,standard
+BR03,Anchor can - Sale,,D01,1,0,1.5,0, No Tax, exclusive,BR,,,,,,,,,,,,,no_image.png,standard
+BR04,Anchor Bottle - Sale,,D01,1,0,1.75,0, No Tax, exclusive,BR,,,,,,,,,,,,,no_image.png,standard
+BR05,Tiger Can - Sale,,D01,1,0,1.5,0, No Tax, exclusive,BR,,,,,,,,,,,,,no_image.png,standard
+BR06,Tiger Bottle - Sale,,D01,1,0,2.25,0, No Tax, exclusive,BR,,,,,,,,,,,,,no_image.png,standard
+BR07,Tiger Crystal - Sale,,D01,1,0,2.5,0, No Tax, exclusive,BR,,,,,,,,,,,,,no_image.png,standard
+BR08,Heineken Can  - Sale,,D01,1,0,1.75,0, No Tax, exclusive,BR,,,,,,,,,,,,,no_image.png,standard
+BR09,Heineken Bottle  - Sale,,D01,1,0,2.5,0, No Tax, exclusive,BR,,,,,,,,,,,,,no_image.png,standard
+BR10,Cambodia Bottle - Sale,,D01,1,0,1.75,0, No Tax, exclusive,BR,,,,,,,,,,,,,no_image.png,standard
+BR11,Gunness Bottle - Sale,,D01,1,0,4,0, No Tax, exclusive,BR,,,,,,,,,,,,,no_image.png,standard
+BR12,Paris Can - Sale,,D01,1,0,2.5,0, No Tax, exclusive,BR,,,,,,,,,,,,,no_image.png,standard
+SD01,Coca-Cola Can - Sale,,D01,1,0,1,0, No Tax, exclusive,SD,,,,,,,,,,,,,no_image.png,standard
+SD02,Coca-Cola Bottle - Sale,,D01,1,0,1.25,0, No Tax, exclusive,SD,,,,,,,,,,,,,no_image.png,standard
+SD03,Ized Cola  - Sale,,D01,1,0,1,0, No Tax, exclusive,SD,,,,,,,,,,,,,no_image.png,standard
+SD04,Sprite - Sale,,D01,1,0,1,0, No Tax, exclusive,SD,,,,,,,,,,,,,no_image.png,standard
+SD05,Soda Can - Sale,,D01,1,0,1,0, No Tax, exclusive,SD,,,,,,,,,,,,,no_image.png,standard
+SD06,Soda Bottle  - Sale,,D01,1,0,1,0, No Tax, exclusive,SD,,,,,,,,,,,,,no_image.png,standard
+CC01,Bloody Marry - CC,,D01,1,0,4.25,0, No Tax, exclusive,CC,,,,,,,,,,,,,no_image.png,standard
+CC02,Lagoon - CC,,D01,1,0,4.25,0, No Tax, exclusive,CC,,,,,,,,,,,,,no_image.png,standard
+CC03,B Magarita - CC,,D01,1,0,4.25,0, No Tax, exclusive,CC,,,,,,,,,,,,,no_image.png,standard
+CC04,Blue Sky - CC,,D01,1,0,4.25,0, No Tax, exclusive,CC,,,,,,,,,,,,,no_image.png,standard
+CC05,Bubble Gum - CC,,D01,1,0,4.25,0, No Tax, exclusive,CC,,,,,,,,,,,,,no_image.png,standard
+CC06,Californication - CC,,D01,1,0,4.25,0, No Tax, exclusive,CC,,,,,,,,,,,,,no_image.png,standard
+CC07,Cosmopplitan - CC,,D01,1,0,4.25,0, No Tax, exclusive,CC,,,,,,,,,,,,,no_image.png,standard
+CC08,Cuba Libre - CC,,D01,1,0,4.25,0, No Tax, exclusive,CC,,,,,,,,,,,,,no_image.png,standard
+CC09,Daiquiri - CC,,D01,1,0,4.25,0, No Tax, exclusive,CC,,,,,,,,,,,,,no_image.png,standard
+CC10,Eroticolada - CC,,D01,1,0,4.25,0, No Tax, exclusive,CC,,,,,,,,,,,,,no_image.png,standard
+CC11,Harry Banana - CC,,D01,1,0,4.25,0, No Tax, exclusive,CC,,,,,,,,,,,,,no_image.png,standard
+CC12,Long Beach Iced Tea - CC,,D01,1,0,4.25,0, No Tax, exclusive,CC,,,,,,,,,,,,,no_image.png,standard
+CC13,Mojito - CC,,D01,1,0,4.25,0, No Tax, exclusive,CC,,,,,,,,,,,,,no_image.png,standard
+CC14,Oral Sex On The Beach - CC,,D01,1,0,4.25,0, No Tax, exclusive,CC,,,,,,,,,,,,,no_image.png,standard
+CC15,Pina Colada - CC,,D01,1,0,4.25,0, No Tax, exclusive,CC,,,,,,,,,,,,,no_image.png,standard
+CC16,Pink lady - CC,,D01,1,0,4.25,0, No Tax, exclusive,CC,,,,,,,,,,,,,no_image.png,standard
+CC17,Long Island Iced Tea - CC,,D01,1,0,4.25,0, No Tax, exclusive,CC,,,,,,,,,,,,,no_image.png,standard
+CC18,Long Lizard - CC,,D01,1,0,4.25,0, No Tax, exclusive,CC,,,,,,,,,,,,,no_image.png,standard
+CC19,Mai Tai - CC,,D01,1,0,4.25,0, No Tax, exclusive,CC,,,,,,,,,,,,,no_image.png,standard
+CC20,Magarita - CC,,D01,1,0,4.25,0, No Tax, exclusive,CC,,,,,,,,,,,,,no_image.png,standard
+CC21,Sunrise - CC,,D01,1,0,4.25,0, No Tax, exclusive,CC,,,,,,,,,,,,,no_image.png,standard
+CC22,The Love Machine - CC,,D01,1,0,4.25,0, No Tax, exclusive,CC,,,,,,,,,,,,,no_image.png,standard
+CC23,White Russian - CC,,D01,1,0,4.25,0, No Tax, exclusive,CC,,,,,,,,,,,,,no_image.png,standard
+CC24,Whisky Sour - CC,,D01,1,0,4.25,0, No Tax, exclusive,CC,,,,,,,,,,,,,no_image.png,standard
+CC25,Round The World - CC,,D01,1,0,4.25,0, No Tax, exclusive,CC,,,,,,,,,,,,,no_image.png,standard
+CC26,Screw Driver - CC,,D01,1,0,4.25,0, No Tax, exclusive,CC,,,,,,,,,,,,,no_image.png,standard
+CC27,Sex On The Beach - CC,,D01,1,0,4.25,0, No Tax, exclusive,CC,,,,,,,,,,,,,no_image.png,standard
+CC28,Singapore Sling - CC,,D01,1,0,4.25,0, No Tax, exclusive,CC,,,,,,,,,,,,,no_image.png,standard
+CC29,You & Me - CC,,D01,1,0,4.25,0, No Tax, exclusive,CC,,,,,,,,,,,,,no_image.png,standard
+CC30,Zombie - CC,,D01,1,0,4.25,0, No Tax, exclusive,CC,,,,,,,,,,,,,no_image.png,standard
+MC01,Japanese Slipper Martini,,D01,1,0,4,0, No Tax, exclusive,MC,,,,,,,,,,,,,no_image.png,standard
+MC02,Lychee Martini,,D01,1,0,4,0, No Tax, exclusive,MC,,,,,,,,,,,,,no_image.png,standard
+MC03,Long Martini,,D01,1,0,4,0, No Tax, exclusive,MC,,,,,,,,,,,,,no_image.png,standard
+MC04,Lemon Ball Martini,,D01,1,0,4,0, No Tax, exclusive,MC,,,,,,,,,,,,,no_image.png,standard
+MC05,Appletini,,D01,1,0,4,0, No Tax, exclusive,MC,,,,,,,,,,,,,no_image.png,standard
+MC06,Blue Bikini Martini,,D01,1,0,4,0, No Tax, exclusive,MC,,,,,,,,,,,,,no_image.png,standard
+MC07,Cool passion Matini,,D01,1,0,4,0, No Tax, exclusive,MC,,,,,,,,,,,,,no_image.png,standard
+MC08,Dry Martini,,D01,1,0,4,0, No Tax, exclusive,MC,,,,,,,,,,,,,no_image.png,standard
+MC09,Raspberry Martini,,D01,1,0,4,0, No Tax, exclusive,MC,,,,,,,,,,,,,no_image.png,standard
+MC10,Passion Martini,,D01,1,0,4,0, No Tax, exclusive,MC,,,,,,,,,,,,,no_image.png,standard
+MC11,Red Lion Martini,,D01,1,0,4,0, No Tax, exclusive,MC,,,,,,,,,,,,,no_image.png,standard
+JC01,Cool passion Matini - Jar,,D01,1,0,13,0, No Tax, exclusive,JC,,,,,,,,,,,,,no_image.png,standard
+JC02,Pina Colada - Jar,,D01,1,0,13,0, No Tax, exclusive,JC,,,,,,,,,,,,,no_image.png,standard
+JC03,Blue Magarita  - Jar,,D01,1,0,13,0, No Tax, exclusive,JC,,,,,,,,,,,,,no_image.png,standard
+JC04,Daiquiri  - Jar,,D01,1,0,13,0, No Tax, exclusive,JC,,,,,,,,,,,,,no_image.png,standard
+JC05,Mojito  - Jar,,D01,1,0,13,0, No Tax, exclusive,JC,,,,,,,,,,,,,no_image.png,standard
+JC06,Passion Martini  - Jar,,D01,1,0,13,0, No Tax, exclusive,JC,,,,,,,,,,,,,no_image.png,standard
+JC07,Pink lady  - Jar,,D01,1,0,13,0, No Tax, exclusive,JC,,,,,,,,,,,,,no_image.png,standard
+JC08,Love Machine  - Jar,,D01,1,0,13,0, No Tax, exclusive,JC,,,,,,,,,,,,,no_image.png,standard
+SH01,Irish Flag - SC,,D01,1,0,3.25,0, No Tax, exclusive,SH,,,,,,,,,,,,,no_image.png,standard
+SH02,Vodka Caramel - SC,,D01,1,0,3.25,0, No Tax, exclusive,SH,,,,,,,,,,,,,no_image.png,standard
+SH03,The Passion  - SC,,D01,1,0,3.25,0, No Tax, exclusive,SH,,,,,,,,,,,,,no_image.png,standard
+SH04,Lemon drop - SC,,D01,1,0,3.25,0, No Tax, exclusive,SH,,,,,,,,,,,,,no_image.png,standard
+SH05,B52 - SC,,D01,1,0,3.25,0, No Tax, exclusive,SH,,,,,,,,,,,,,no_image.png,standard
+SH06,B69 - SC,,D01,1,0,3.25,0, No Tax, exclusive,SH,,,,,,,,,,,,,no_image.png,standard
+SH07,Blow Job - SC,,D01,1,0,3.25,0, No Tax, exclusive,SH,,,,,,,,,,,,,no_image.png,standard
+SH08,Flaming Dr. Pepper - SC,,D01,1,0,3.25,0, No Tax, exclusive,SH,,,,,,,,,,,,,no_image.png,standard

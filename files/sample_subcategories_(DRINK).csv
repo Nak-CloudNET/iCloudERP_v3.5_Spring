@@ -1,0 +1,15 @@
+Code,Name,Parent Category Code,Image name
+HO,HOT,D01,no_image.png
+CO,COLD,D01,no_image.png
+SM,SMOOTH,D01,no_image.png
+FR,FRAPPE,D01,no_image.png
+TH,TEA HOT,D01,no_image.png
+TH,TEA COLD,D01,no_image.png
+SODA,SODA,D01,no_image.png
+JC,JUICE,D01,no_image.png
+BR,BEER,D01,no_image.png
+SD,SOFT DRINK,D01,no_image.png
+CC,CLASSIC COCKTAIL,D01,no_image.png
+MC,MARTINI COCKTAIL,D01,no_image.png
+JC,JAR COCKTAIL,D01,no_image.png
+SH,SHOT,D01,no_image.png

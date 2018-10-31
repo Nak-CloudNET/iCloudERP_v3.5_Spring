@@ -1,0 +1,110 @@
+Code,Name,Name KH,Category Code,Unit ID,Cost,Price,Alert Quantity, Tax Rate Name,Tax Method,Subcategory Code,Product Variants Separated by |,Supplier1(No),Supplier2(No),Supplier3(No),Supplier4(No),Supplier5(No),Custom Field 1,Custom Field 2,Custom Field 3,Custom Field 4,Custom Field 5,Custom Field 6,Image,Type(standard or service)
+SY01,Blue Curacao Syrup,,RWD01,1,0,0,0, No Tax, exclusive,SYRUP,,,,,,,,,,,,,no_image.png,standard
+SY02,Caramel Syrup,,RWD01,1,0,0,0, No Tax, exclusive,SYRUP,,,,,,,,,,,,,no_image.png,standard
+SY03,Vanilla Syrup,,RWD01,1,0,0,0, No Tax, exclusive,SYRUP,,,,,,,,,,,,,no_image.png,standard
+SY04,Irish Syrup,,RWD01,1,0,0,0, No Tax, exclusive,SYRUP,,,,,,,,,,,,,no_image.png,standard
+SY05,Guava Syrup,,RWD01,1,0,0,0, No Tax, exclusive,SYRUP,,,,,,,,,,,,,no_image.png,standard
+SY06,Pample Syrup,,RWD01,1,0,0,0, No Tax, exclusive,SYRUP,,,,,,,,,,,,,no_image.png,standard
+SY07,Coconut Syrup,,RWD01,1,0,0,0, No Tax, exclusive,SYRUP,,,,,,,,,,,,,no_image.png,standard
+SY08,Toffee Nut Syrup,,RWD01,1,0,0,0, No Tax, exclusive,SYRUP,,,,,,,,,,,,,no_image.png,standard
+PU01,Passion Puree,,RWD01,1,0,0,0, No Tax, exclusive,PUREE,,,,,,,,,,,,,no_image.png,standard
+PU02,Banana Puree,,RWD01,1,0,0,0, No Tax, exclusive,PUREE,,,,,,,,,,,,,no_image.png,standard
+PU03,Kiwi Puree,,RWD01,1,0,0,0, No Tax, exclusive,PUREE,,,,,,,,,,,,,no_image.png,standard
+PU04,Blueberry Puree,,RWD01,1,0,0,0, No Tax, exclusive,PUREE,,,,,,,,,,,,,no_image.png,standard
+PU05,Strawberry Puree,,RWD01,1,0,0,0, No Tax, exclusive,PUREE,,,,,,,,,,,,,no_image.png,standard
+PU06,Raspherry Puree,,RWD01,1,0,0,0, No Tax, exclusive,PUREE,,,,,,,,,,,,,no_image.png,standard
+PU07,Honey Puree,,RWD01,1,0,0,0, No Tax, exclusive,PUREE,,,,,,,,,,,,,no_image.png,standard
+PO01,Green Tea Powder,,RWD01,1,0,0,0, No Tax, exclusive,POWDER,,,,,,,,,,,,,no_image.png,standard
+PO02,Cacao Powder,,RWD01,1,0,0,0, No Tax, exclusive,POWDER,,,,,,,,,,,,,no_image.png,standard
+PO03,Coffee Mix Powder,,RWD01,1,0,0,0, No Tax, exclusive,POWDER,,,,,,,,,,,,,no_image.png,standard
+PO04,Milo Powder,,RWD01,1,0,0,0, No Tax, exclusive,POWDER,,,,,,,,,,,,,no_image.png,standard
+PO05,Brown Sugar Powder,,RWD01,1,0,0,0, No Tax, exclusive,POWDER,,,,,,,,,,,,,no_image.png,standard
+SU01,Corn Sugar Pack,,RWD01,1,0,0,0, No Tax, exclusive,SUGAR,,,,,,,,,,,,,no_image.png,standard
+SU02,Erqarl Sugar,,RWD01,1,0,0,0, No Tax, exclusive,SUGAR,,,,,,,,,,,,,no_image.png,standard
+SU03,White Sugar Kg,,RWD01,1,0,0,0, No Tax, exclusive,SUGAR,,,,,,,,,,,,,no_image.png,standard
+SU04,Brown Sugar Pack,,RWD01,1,0,0,0, No Tax, exclusive,SUGAR,,,,,,,,,,,,,no_image.png,standard
+SA01,Chocolate Sauce,,RWD01,1,0,0,0, No Tax, exclusive,SAUCE,,,,,,,,,,,,,no_image.png,standard
+SA02,Caramel Sauce,,RWD01,1,0,0,0, No Tax, exclusive,SAUCE,,,,,,,,,,,,,no_image.png,standard
+SA03,Strawberry Sauce,,RWD01,1,0,0,0, No Tax, exclusive,SAUCE,,,,,,,,,,,,,no_image.png,standard
+FF01,Apple Fruit,,RWD01,1,0,0,0, No Tax, exclusive,FRESH FRUIT,,,,,,,,,,,,,no_image.png,standard
+FF02,Avocado Fruit,,RWD01,1,0,0,0, No Tax, exclusive,FRESH FRUIT,,,,,,,,,,,,,no_image.png,standard
+FF03,Pineapple Fruit,,RWD01,1,0,0,0, No Tax, exclusive,FRESH FRUIT,,,,,,,,,,,,,no_image.png,standard
+FF04,Carrot Fruit,,RWD01,1,0,0,0, No Tax, exclusive,FRESH FRUIT,,,,,,,,,,,,,no_image.png,standard
+FF05,Lemon Fruit,,RWD01,1,0,0,0, No Tax, exclusive,FRESH FRUIT,,,,,,,,,,,,,no_image.png,standard
+FF06,Passion Fruit,,RWD01,1,0,0,0, No Tax, exclusive,FRESH FRUIT,,,,,,,,,,,,,no_image.png,standard
+FF07,Coconut Fruit,,RWD01,1,0,0,0, No Tax, exclusive,FRESH FRUIT,,,,,,,,,,,,,no_image.png,standard
+FF08,Green Orange Fruit,,RWD01,1,0,0,0, No Tax, exclusive,FRESH FRUIT,,,,,,,,,,,,,no_image.png,standard
+FF09,Yellow Orange Fruit,,RWD01,1,0,0,0, No Tax, exclusive,FRESH FRUIT,,,,,,,,,,,,,no_image.png,standard
+FF10,Passion Fruit,,RWD01,1,0,0,0, No Tax, exclusive,FRESH FRUIT,,,,,,,,,,,,,no_image.png,standard
+CB01,Early Morning Blend,,RWD01,1,0,0,0, No Tax, exclusive,COFFEE BEANS,,,,,,,,,,,,,no_image.png,standard
+CB02,Espresso Blend,,RWD01,1,0,0,0, No Tax, exclusive,COFFEE BEANS,,,,,,,,,,,,,no_image.png,standard
+CB03,Early Extra Gold Blend,,RWD01,1,0,0,0, No Tax, exclusive,COFFEE BEANS,,,,,,,,,,,,,no_image.png,standard
+LQ01,Blue Curacao,,RWD01,1,0,0,0, No Tax, exclusive,LIQUEUR,,,,,,,,,,,,,no_image.png,standard
+LQ02,Triple Sec ,,RWD01,1,0,0,0, No Tax, exclusive,LIQUEUR,,,,,,,,,,,,,no_image.png,standard
+LQ03,Coconut Liqueur,,RWD01,1,0,0,0, No Tax, exclusive,LIQUEUR,,,,,,,,,,,,,no_image.png,standard
+LQ04,Amaretto ,,RWD01,1,0,0,0, No Tax, exclusive,LIQUEUR,,,,,,,,,,,,,no_image.png,standard
+LQ05,Menth Liqueur,,RWD01,1,0,0,0, No Tax, exclusive,LIQUEUR,,,,,,,,,,,,,no_image.png,standard
+LQ06,Cassis Liqueur,,RWD01,1,0,0,0, No Tax, exclusive,LIQUEUR,,,,,,,,,,,,,no_image.png,standard
+LQ07,Cacao Liqueur,,RWD01,1,0,0,0, No Tax, exclusive,LIQUEUR,,,,,,,,,,,,,no_image.png,standard
+LQ08,Banana Liqueur,,RWD01,1,0,0,0, No Tax, exclusive,LIQUEUR,,,,,,,,,,,,,no_image.png,standard
+LQ09,Apple Soure ,,RWD01,1,0,0,0, No Tax, exclusive,LIQUEUR,,,,,,,,,,,,,no_image.png,standard
+LQ10,Orange Imperial ,,RWD01,1,0,0,0, No Tax, exclusive,LIQUEUR,,,,,,,,,,,,,no_image.png,standard
+LQ11,Pech Liqueur,,RWD01,1,0,0,0, No Tax, exclusive,LIQUEUR,,,,,,,,,,,,,no_image.png,standard
+LQ12,Cherry Brandy ,,RWD01,1,0,0,0, No Tax, exclusive,LIQUEUR,,,,,,,,,,,,,no_image.png,standard
+LQ13,Fraise ,,RWD01,1,0,0,0, No Tax, exclusive,LIQUEUR,,,,,,,,,,,,,no_image.png,standard
+LQ14,Extra Dry ,,RWD01,1,0,0,0, No Tax, exclusive,LIQUEUR,,,,,,,,,,,,,no_image.png,standard
+LQ15,Bainco ,,RWD01,1,0,0,0, No Tax, exclusive,LIQUEUR,,,,,,,,,,,,,no_image.png,standard
+LQ16,Rosso ,,RWD01,1,0,0,0, No Tax, exclusive,LIQUEUR,,,,,,,,,,,,,no_image.png,standard
+LQ17,Vodka ,,RWD01,1,0,0,0, No Tax, exclusive,LIQUEUR,,,,,,,,,,,,,no_image.png,standard
+LQ18,Tequila ,,RWD01,1,0,0,0, No Tax, exclusive,LIQUEUR,,,,,,,,,,,,,no_image.png,standard
+LQ19,Gin Bombay ,,RWD01,1,0,0,0, No Tax, exclusive,LIQUEUR,,,,,,,,,,,,,no_image.png,standard
+LQ20,Gordon Dry Gin ,,RWD01,1,0,0,0, No Tax, exclusive,LIQUEUR,,,,,,,,,,,,,no_image.png,standard
+LQ21,Captain Morgan ,,RWD01,1,0,0,0, No Tax, exclusive,LIQUEUR,,,,,,,,,,,,,no_image.png,standard
+LQ22,Absinthe ,,RWD01,1,0,0,0, No Tax, exclusive,LIQUEUR,,,,,,,,,,,,,no_image.png,standard
+LQ23,Barcadi Gold ,,RWD01,1,0,0,0, No Tax, exclusive,LIQUEUR,,,,,,,,,,,,,no_image.png,standard
+LQ24,Malibu ,,RWD01,1,0,0,0, No Tax, exclusive,LIQUEUR,,,,,,,,,,,,,no_image.png,standard
+LQ25,Khalu ,,RWD01,1,0,0,0, No Tax, exclusive,LIQUEUR,,,,,,,,,,,,,no_image.png,standard
+LQ26,Baileys ,,RWD01,1,0,0,0, No Tax, exclusive,LIQUEUR,,,,,,,,,,,,,no_image.png,standard
+LQ27,Midori ,,RWD01,1,0,0,0, No Tax, exclusive,LIQUEUR,,,,,,,,,,,,,no_image.png,standard
+LQ28,Lichi-Li ,,RWD01,1,0,0,0, No Tax, exclusive,LIQUEUR,,,,,,,,,,,,,no_image.png,standard
+LQ29,Apricot Brandy ,,RWD01,1,0,0,0, No Tax, exclusive,LIQUEUR,,,,,,,,,,,,,no_image.png,standard
+LQ30,Cointreau ,,RWD01,1,0,0,0, No Tax, exclusive,LIQUEUR,,,,,,,,,,,,,no_image.png,standard
+LQ31,Cocogif ,,RWD01,1,0,0,0, No Tax, exclusive,LIQUEUR,,,,,,,,,,,,,no_image.png,standard
+LQ32,Grand Marnier ,,RWD01,1,0,0,0, No Tax, exclusive,LIQUEUR,,,,,,,,,,,,,no_image.png,standard
+LQ33,Ricard ,,RWD01,1,0,0,0, No Tax, exclusive,LIQUEUR,,,,,,,,,,,,,no_image.png,standard
+LQ34,Jim Bean ,,RWD01,1,0,0,0, No Tax, exclusive,LIQUEUR,,,,,,,,,,,,,no_image.png,standard
+LQ35,Blend Scotch  ,,RWD01,1,0,0,0, No Tax, exclusive,LIQUEUR,,,,,,,,,,,,,no_image.png,standard
+LQ36,Jam Son ,,RWD01,1,0,0,0, No Tax, exclusive,LIQUEUR,,,,,,,,,,,,,no_image.png,standard
+LQ37,Gallaino ,,RWD01,1,0,0,0, No Tax, exclusive,LIQUEUR,,,,,,,,,,,,,no_image.png,standard
+LQ38,V S O P ,,RWD01,1,0,0,0, No Tax, exclusive,LIQUEUR,,,,,,,,,,,,,no_image.png,standard
+LQ39,XR 21 ,,RWD01,1,0,0,0, No Tax, exclusive,LIQUEUR,,,,,,,,,,,,,no_image.png,standard
+LQ40,Bacardi Gold,,RWD01,1,0,0,0, No Tax, exclusive,LIQUEUR,,,,,,,,,,,,,no_image.png,standard
+LQ41,Grenadine Red ,,RWD01,1,0,0,0, No Tax, exclusive,LIQUEUR,,,,,,,,,,,,,no_image.png,standard
+LQ42,Menthe Verte ,,RWD01,1,0,0,0, No Tax, exclusive,LIQUEUR,,,,,,,,,,,,,no_image.png,standard
+LQ43,Giffard ,,RWD01,1,0,0,0, No Tax, exclusive,LIQUEUR,,,,,,,,,,,,,no_image.png,standard
+LQ44,Ballantine X'mas ,,RWD01,1,0,0,0, No Tax, exclusive,LIQUEUR,,,,,,,,,,,,,no_image.png,standard
+LQ45,Vina Maipo ,,RWD01,1,0,0,0, No Tax, exclusive,LIQUEUR,,,,,,,,,,,,,no_image.png,standard
+LQ46,Mouthon Cadet ,,RWD01,1,0,0,0, No Tax, exclusive,LIQUEUR,,,,,,,,,,,,,no_image.png,standard
+PL01,CUP Pet 12 oz,,RWD01,1,0,0,0, No Tax, exclusive,PLASTIC,,,,,,,,,,,,,no_image.png,standard
+PL02,CUP Cover pet 12oz,,RWD01,1,0,0,0, No Tax, exclusive,PLASTIC,,,,,,,,,,,,,no_image.png,standard
+PL03,CUP Pet 16 oz,,RWD01,1,0,0,0, No Tax, exclusive,PLASTIC,,,,,,,,,,,,,no_image.png,standard
+PL04,CUP Cover Pet 16 oz,,RWD01,1,0,0,0, No Tax, exclusive,PLASTIC,,,,,,,,,,,,,no_image.png,standard
+PL05,CUP Pet 22 oz,,RWD01,1,0,0,0, No Tax, exclusive,PLASTIC,,,,,,,,,,,,,no_image.png,standard
+PL06,CUP Cover pet 22oz,,RWD01,1,0,0,0, No Tax, exclusive,PLASTIC,,,,,,,,,,,,,no_image.png,standard
+PL07,CUP Hot 8oz,,RWD01,1,0,0,0, No Tax, exclusive,PLASTIC,,,,,,,,,,,,,no_image.png,standard
+PL08,CUP Cover Hot 8oz,,RWD01,1,0,0,0, No Tax, exclusive,PLASTIC,,,,,,,,,,,,,no_image.png,standard
+PL09,??????,,RWD01,1,0,0,0, No Tax, exclusive,PLASTIC,,,,,,,,,,,,,no_image.png,standard
+PL10,Black Straw Small ,,RWD01,1,0,0,0, No Tax, exclusive,PLASTIC,,,,,,,,,,,,,no_image.png,standard
+PL11,White Straw Small,,RWD01,1,0,0,0, No Tax, exclusive,PLASTIC,,,,,,,,,,,,,no_image.png,standard
+PL12,Long Straw,,RWD01,1,0,0,0, No Tax, exclusive,PLASTIC,,,,,,,,,,,,,no_image.png,standard
+PL13,Hot Straw,,RWD01,1,0,0,0, No Tax, exclusive,PLASTIC,,,,,,,,,,,,,no_image.png,standard
+PL14,Black Straw Big,,RWD01,1,0,0,0, No Tax, exclusive,PLASTIC,,,,,,,,,,,,,no_image.png,standard
+TE01,Red Thai Tea,,RWD01,1,0,0,0, No Tax, exclusive,TEA,,,,,,,,,,,,,no_image.png,standard
+TE02,Green Thai Tea,,RWD01,1,0,0,0, No Tax, exclusive,TEA,,,,,,,,,,,,,no_image.png,standard
+TE03,Dry Tea,,RWD01,1,0,0,0, No Tax, exclusive,TEA,,,,,,,,,,,,,no_image.png,standard
+OT01,Thai Salt,,RWD01,1,0,0,0, No Tax, exclusive,OTHER,,,,,,,,,,,,,no_image.png,standard
+OT02,Sprite Bottle,,RWD01,1,0,0,0, No Tax, exclusive,OTHER,,,,,,,,,,,,,no_image.png,standard
+OT03,Coca-Cola Bottle,,RWD01,1,0,0,0, No Tax, exclusive,OTHER,,,,,,,,,,,,,no_image.png,standard
+OT04,Soda Bottle,,RWD01,1,0,0,0, No Tax, exclusive,OTHER,,,,,,,,,,,,,no_image.png,standard
+OT05,Water 20L,,RWD01,1,0,0,0, No Tax, exclusive,OTHER,,,,,,,,,,,,,no_image.png,standard
+OT06,Whipping Cream,,RWD01,1,0,0,0, No Tax, exclusive,OTHER,,,,,,,,,,,,,no_image.png,standard

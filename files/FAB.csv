@@ -1,0 +1,14 @@
+﻿Code,Name,Name KH,Category Code,Unit ID,Cost,Price,Alert Quantity, Tax Rate Name,Tax Method,Subcategory Code,Product Variants Separated by |,Supplier1(No),Supplier2(No),Supplier3(No),Supplier4(No),Supplier5(No),Custom Field 1,Custom Field 2,Custom Field 3,Custom Field 4,Custom Field 5,Custom Field 6,Image,Type(standard or service)
+FAB01,ឆាស្ប៉ាកាទីផាក់គីម៉ៅ - B,,F01,4,0,10,0, No Tax, exclusive,FA,,,,,,,,,,,,,no_image.png,standard
+FAB02,ភីហ្សាពោតគ្រឿងសមុត្រ - B,,F01,4,0,12,0, No Tax, exclusive,FA,,,,,,,,,,,,,no_image.png,standard
+FAB03,ភីហ្សាពោតតុំយ៉ាំគ្រឿងសមុត្រ - B,,F01,4,0,12,0, No Tax, exclusive,FA,,,,,,,,,,,,,no_image.png,standard
+FAB04,មីឆាសាច់ជ្រូក - B,,F01,4,0,10,0, No Tax, exclusive,FA,,,,,,,,,,,,,no_image.png,standard
+FAB05,មីឆាសាច់មាន់ - B,,F01,4,0,10,0, No Tax, exclusive,FA,,,,,,,,,,,,,no_image.png,standard
+FAB06,មីឆាគ្រឿងសមុត្រ - B,,F01,4,0,10,0, No Tax, exclusive,FA,,,,,,,,,,,,,no_image.png,standard
+FAB07,មីឆាសាច់គោ - B,,F01,4,0,10,0, No Tax, exclusive,FA,,,,,,,,,,,,,no_image.png,standard
+FAB08,ក្លឹបសេនវិច - B,,F01,4,0,7,0, No Tax, exclusive,FA,,,,,,,,,,,,,no_image.png,standard
+FAB09,ចាខ្វៃពិសេស - B,,F01,4,0,7,0, No Tax, exclusive,FA,,,,,,,,,,,,,no_image.png,standard
+FAB10,ផាតថៃ - B,,F01,4,0,10,0, No Tax, exclusive,FA,,,,,,,,,,,,,no_image.png,standard
+FAB11,បុកល្ហុងបែបថៃ - B,,F01,4,0,10,0, No Tax, exclusive,FA,,,,,,,,,,,,,no_image.png,standard
+FAB12,ដំឡូងបំពង - B,,F01,4,0,6,0, No Tax, exclusive,FA,,,,,,,,,,,,,no_image.png,standard
+FAB13,ឆាស្ប៉ាកាទីកាបូណារ៉ា - B,,F01,4,0,10,0, No Tax, exclusive,FA,,,,,,,,,,,,,no_image.png,standard

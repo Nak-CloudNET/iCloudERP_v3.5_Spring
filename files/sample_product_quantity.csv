@@ -1,0 +1,4 @@
+Code,Quantity,option_id,warehouse_id,opening_stock,cost
+PN01,64,,1,1,0
+PN02,80,,1,1,0
+PN03,117,,1,1,0
